@@ -1,7 +1,7 @@
 ## 🆔 devCaioFreire
 <div align="center">
   <a href="https://github.com/devCaioFreire">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devCaioFreire&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
+  <img align-"left" height="180em" src="https://github-readme-stats.vercel.app/api?username=devCaioFreire&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
    <img align="center" alt="Caio-Yoda"   height="200" width="200" src="https://cdn.discordapp.com/attachments/985255666195255329/1016898876332048444/masterYoda2.gif">
 </div>
 <div style="display: inline_block">
