@@ -1,5 +1,4 @@
 ## 🆔 devCaioFreire
-<br>
 <div align="center">
   <a href="https://github.com/devCaioFreire">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devCaioFreire&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
