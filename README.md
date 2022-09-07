@@ -1,8 +1,8 @@
 ## 🆔 devCaioFreire
 <div align="center">
   <a href="https://github.com/devCaioFreire">
-  <img align-"left" height="180em" src="https://github-readme-stats.vercel.app/api?username=devCaioFreire&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
-  <img align-"right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devCaioFreire&layout=compact&langs_count=7&theme=ocean_dark"/>
+  <img align-"left" height="150em" src="https://github-readme-stats.vercel.app/api?username=devCaioFreire&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
+  <img align-"right" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devCaioFreire&layout=compact&langs_count=7&theme=ocean_dark"/>
 </div>
 <div style="display: inline_block">
 <br>
