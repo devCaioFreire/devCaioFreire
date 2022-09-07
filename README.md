@@ -14,6 +14,7 @@
   <img align="center" alt="Caio-Apple"   height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg">
   <img align="center" alt="Caio-Android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg">
   <img align="center" alt="Caio-Figma"   height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
+  <img align="center" alt="Caio-Figma"   height="30" width="40" src="https://cdn.discordapp.com/attachments/985255666195255329/1016898876332048444/masterYoda2.gif">
 </div>
 
 ##
